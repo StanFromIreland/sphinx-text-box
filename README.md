@@ -1,8 +1,11 @@
 # sphinx-text-box
 
-Use:
+## Use
 
 ````
 .. text-box:: 
    Hello Sphinx!
 ````
+
+## Example
+![example.png](example.png)
